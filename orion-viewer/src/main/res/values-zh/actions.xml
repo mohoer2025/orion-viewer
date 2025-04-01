@@ -7,7 +7,7 @@
     <string name="action_first_page">第一页</string>
     <string name="action_last_page">最后一页</string>
     <string name="action_crop_page">裁剪</string>
-    <string name="action_zoom_page">放缩</string>
+    <string name="action_zoom_page">缩放</string>
     <string name="action_rotation_page">旋转</string>
     <string name="action_options_page">选项</string>
     <string name="action_goto_page">跳转</string>
